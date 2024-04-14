@@ -120,7 +120,7 @@ async function claimQuest(_0x27e2d7) {
       {
         method: _0x3e6c70(0xe0),
         headers: {
-          Authorization: accessToken,
+          Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im5pZGhvbXVkaW4xOTZAZ21haWwuY29tIiwidCI6ImV5SmhiR2NpT2lKRlV6VXhNaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwYzNNaU9pSm9kSFJ3Y3pvdkwydHBjbUYyWlhKelpTNW5ZVzFsSWl3aVlYVmtJanBiSW10cGNtRjJaWEp6WlM1bllXMWxJbDBzSW1WNGNDSTZNVGN4TlRZMU56ZzVOU3dpYzNWaUlqb2lOalZtTkRaa1pqQTRaamN4T1RaaVl6TTJPR0ZqT0RVMklpd2lhblJwSWpvaU5qWXhZalJtWVRkbVpHWm1OMlJtWVRobU56SmhNVGd4SWl3aWFXRjBJam94TnpFek1EWTFPRGsxZlEuQVNBYjJuNDgtM2hEUVJOUDljTUM0N0gwRnNUaUVSTEZyQW9sNWNfV2xNM3VSSHRfRHNaRzdoUEF4THlyVWRQaGRwTnkzLVJJb1ZSd0s1anBZRkxtZTZ6UUFlUGFLVXVlenlocFRCOE95bHpyMVA3R3FSX0dGXzRtVkdQeE5VbkxyZlVPYXdSWXFKbVNZeEMzdTJKdjNRMGszRVpSYnptQUE0NlJUekY3cnVTdnJXSkMiLCJpYXQiOjE3MTMwNjU4OTUsImV4cCI6MTcxMzA3MzA5NX0.JjEUaM4-gUv19J1-ddVsGFV_I_Pzek4UB8uEpOfZyRc,
           'Content-Type': _0x3e6c70(0xd4),
         },
         body: JSON[_0x3e6c70(0xd5)]({ taskId: _0x27e2d7 }),
